@@ -1,0 +1,5 @@
+# Ignore these file types:
+*.vscode
+
+# Ignore these files specifically:
+features.png
