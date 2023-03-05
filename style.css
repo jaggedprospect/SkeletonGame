@@ -1,0 +1,11 @@
+/* SkeletonGame stylesheet */
+
+body {
+    margin: auto;
+    background-color: #0f0000;
+    color: #ffffff;
+}
+
+#the-game {
+    border: 2px greenyellow solid;
+}
